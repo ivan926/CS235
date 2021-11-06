@@ -1,6 +1,6 @@
 
-lab1:
-	g++ -o lab1 lab1.cpp
+TODO: main.cpp TodoList.h
+	g++ -o TODO main.cpp
 
 clean:
-	rm lab1
+	rm TODO 
